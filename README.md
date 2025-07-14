@@ -1,11 +1,14 @@
 ### 👋 Hi there, I’m Dhanush Shetty (@dhanushshetty1)
 
-- 👨‍💻 I’m passionate about Computer Science and exploring the latest in tech.
-- 🌱 Currently learning: AI/ML, Full Stack Development, and DevOps.
-- 🔍 Interested in: Open-source projects, App Development, and Smart System Integration.
-- 🤝 Open to collaborate on exciting and impactful software projects.
-- 📫 Reach me at: [dhanushshetty106@gmail.com](mailto:dhanushshetty106@gmail.com)
+👨‍💻 Final-year Computer Science Engineering student passionate about building smart, user-focused tech solutions.  
+🌱 Currently learning: Advanced Java, Cloud Computing, and System Design.  
+🧠 Exploring: AI/ML applications in real-world projects and automation using DevOps tools.  
+🔧 Tech Stack: Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Docker, Jenkins, Git, AWS.  
+🚀 Working on:  
+🛍️ E-Commerce Platform: A Spring Boot-based full-stack project with payment and admin management.  
+🤝 Looking to collaborate on: Open-source projects, app development, and impactful tech that solves real-world problems.
 
+- 📫 Reach me at: [dhanushshetty106@gmail.com](mailto:dhanushshetty106@gmail.com)
 - Resume [https://drive.google.com/file/d/1xp7Wf0h88eFUfZSTn1bwPD68F5UyKqBP/view?usp=drive_link](https://drive.google.com/file/d/1xp7Wf0h88eFUfZSTn1bwPD68F5UyKqBP/view?usp=drive_link)
 
 <h3 align="left">Languages and Tools:</h3>
